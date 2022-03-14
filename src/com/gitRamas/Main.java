@@ -11,5 +11,14 @@ public class Main {
         System.out.println("commit");
         System.out.println("en");
         System.out.println("master 2");
+        //Creada Rama
+        System.out.println("commit 1");
+        System.out.println("con");
+        System.out.println("rama");
+        //Primer Commit con rama
+        System.out.println("commit 2");
+        System.out.println("en");
+        System.out.println("rama");
+        //Segundo commit con rama
     }
 }
